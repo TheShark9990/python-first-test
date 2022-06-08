@@ -2,7 +2,7 @@
 # Las tres primeras líneas son comentarios, solo sirven para informar
 # al lector, pero el intérprete de Python se las salta sin hacerles caso
 
-print("Hola") # esta orden imprime un mensaje en pantalla
+print("Buenas tardes") # esta orden imprime un mensaje en pantalla
 
 mi_dato = 5
 print(mi_dato) # aquí guardamos un dato en una variable y se muestra.
